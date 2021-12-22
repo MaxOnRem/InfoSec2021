@@ -1,0 +1,16 @@
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\Task5.2.exe
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\Task5.2.deps.json
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\Task5.2.runtimeconfig.json
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\Task5.2.runtimeconfig.dev.json
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\Task5.2.dll
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\ref\Task5.2.dll
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\bin\Debug\net5.0\Task5.2.pdb
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.csproj.AssemblyReference.cache
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.AssemblyInfoInputs.cache
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.AssemblyInfo.cs
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.csproj.CoreCompileInputs.cache
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.dll
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\ref\Task5.2.dll
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.pdb
+D:\Education\InfoSec2021(C# projects)\PZ-5\Task5.2\obj\Debug\net5.0\Task5.2.genruntimeconfig.cache
