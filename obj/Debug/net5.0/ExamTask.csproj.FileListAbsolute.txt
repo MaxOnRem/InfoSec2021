@@ -1,0 +1,16 @@
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ExamTask.exe
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ExamTask.deps.json
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ExamTask.runtimeconfig.json
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ExamTask.runtimeconfig.dev.json
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ExamTask.dll
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ref\ExamTask.dll
+D:\Education\InfoSec2021(C# projects)\ExamTask\bin\Debug\net5.0\ExamTask.pdb
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.csproj.AssemblyReference.cache
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.AssemblyInfoInputs.cache
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.AssemblyInfo.cs
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.csproj.CoreCompileInputs.cache
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.dll
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ref\ExamTask.dll
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.pdb
+D:\Education\InfoSec2021(C# projects)\ExamTask\obj\Debug\net5.0\ExamTask.genruntimeconfig.cache
